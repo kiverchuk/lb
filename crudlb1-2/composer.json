@@ -1,0 +1,14 @@
+{
+    "name": "vendor/restapi",
+    "description": "restapi pentru lucru cu baza de date camin",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Chiverciuc Anton",
+            "email": "kiverchuk.a@yandex.ru"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.4"
+    }
+}
